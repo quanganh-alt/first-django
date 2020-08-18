@@ -1,1 +1,1 @@
-web: gunicorn siamsurety.wsgi
+web: gunicorn crm1.wsgi
