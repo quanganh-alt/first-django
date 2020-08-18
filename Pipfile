@@ -10,6 +10,7 @@ django = "*"
 django-filter = "*"
 psycopg2 = "*"
 pillow = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.8"
